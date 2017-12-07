@@ -1,7 +1,5 @@
 package DecoratorPattern;
 
-import java.util.Date;
-
 /**
  * @Author:ztian
  * @Description:
