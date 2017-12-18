@@ -3,7 +3,7 @@ package FactoryMethodPattern_02;
 /**
  * @Author:ztian
  * @Description:工厂方法模式
- *                封装对象创建过程，克服简单工厂模式违背开闭原则的缺点
+ * @目的：封装对象创建过程，克服简单工厂模式违背开闭原则的缺点
  * @CreateTime: 2017/12/18  20:48
  */
 public class TestMain {

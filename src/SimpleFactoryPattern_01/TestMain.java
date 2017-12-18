@@ -4,7 +4,8 @@ import java.util.Scanner;
 
 /**
  * @Author:ztian
- * @Description:
+ * @Description:简单工厂模式
+ * @目的：封装对象创建过程，返回对象实例（违背开闭原则）
  * @CreateTime: 2017/12/7  23:27
  */
 public class TestMain {
