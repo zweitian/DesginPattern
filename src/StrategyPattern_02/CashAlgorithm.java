@@ -7,4 +7,5 @@ package StrategyPattern_02;
  */
 public interface CashAlgorithm {
     public double acceptCash(double totalMoney);
+
 }

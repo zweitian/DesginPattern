@@ -7,7 +7,7 @@ import java.util.Scanner;
  * @Description:
  * @CreateTime: 2017/12/7  23:27
  */
-public class SimpleFactoryMain {
+public class TestMain {
 
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);

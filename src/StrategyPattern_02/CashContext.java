@@ -27,4 +27,5 @@ public class CashContext {
     public double acceptCash(double totalMoney){
         return algorithm.acceptCash(totalMoney);
     }
+
 }
