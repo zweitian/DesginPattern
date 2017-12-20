@@ -1,4 +1,4 @@
-package StatePattern;
+package StatePattern_11;
 
 /**
  * @Author:ztian
@@ -40,5 +40,7 @@ public class Employee {
         System.out.print(role+"  ");
         role.doWork();
     }
-
+    public void uptoManager(){
+        this.role=new Manager();
+    }
 }

@@ -1,4 +1,4 @@
-package StatePattern;
+package StatePattern_11;
 
 /**
  * @Author:ztian
