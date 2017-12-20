@@ -1,4 +1,4 @@
-package SinglePattern;
+package SinglePattern_15;
 
 import java.io.IOException;
 
