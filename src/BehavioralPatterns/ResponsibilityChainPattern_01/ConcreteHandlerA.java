@@ -1,4 +1,4 @@
-package BehavioralPatterns.ResponsibilityChainPattern_18;
+package BehavioralPatterns.ResponsibilityChainPattern_01;
 
 /**
  * @Author:ztian
